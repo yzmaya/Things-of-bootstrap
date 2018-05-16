@@ -21,17 +21,17 @@
   
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
-      <img src="img/1.jpg" class="img-responsive">
+      <img src="/work/models/sems/Resource/12812/1/images/1.jpg" class="img-responsive">
     </div>
     <div id="menu1" class="tab-pane fade">
-      <img src="img/2.jpg" class="img-responsive">
+      <img src="/work/models/sems/Resource/12812/1/images/2.jpg" class="img-responsive">
     </div>
     <div id="menu2" class="tab-pane fade">
-     <img src="img/3.jpg" class="img-responsive">
+     <img src="/work/models/sems/Resource/12812/1/images/3.jpg" class="img-responsive">
     </div>
-    <div id="menu3" class="tab-pane fade" style="background-image: url(img/FONDO.jpg);">
+    <div id="menu3" class="tab-pane fade" style="background-image: url(/work/models/sems/Resource/12812/1/images/FONDO.jpg);">
         
-  <img src="img/paso4.png" class="img-responsive">
+  <img src="/work/models/sems/Resource/12812/1/images/paso4.png" class="img-responsive">
   <br>
   
   <div class="panel-group" id="accordion">
@@ -41,8 +41,8 @@
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
             <table width="100%">
               <tr>
-                <td width="50%"><img src="img/1.png"> Bachillerato Escolarizado</td>
-                <td style="text-align: right;">Estudiantes y docentes coinciden en un espacio físico (plantel) en calendario y horario fijo para el desarrollo del conocimiento. Más del 80 por ciento de las actividades realizadas son supervisadas por un docente y evaluadas.
+                <td width="50%"><img src="/work/models/sems/Resource/12812/1/images/1.png"> Bachillerato Escolarizado</td>
+                <td style="text-align: justify;">Estudiantes y docentes coinciden en un espacio físico (plantel) en calendario y horario fijo para el desarrollo del conocimiento. Más del 80 por ciento de las actividades realizadas son supervisadas por un docente y evaluadas.
                 </td>
               </tr>
             </table>
@@ -51,35 +51,35 @@
       </div>
     
 
-      <div id="collapse1" class="panel-collapse collapse">
+      <div id="collapse1" class="panel-collapse collapse" >
         <div class="panel-body">
           <div class="table-responsive">
-          <table border="1" align="center" class="table">
+          <table align="center" class="table">
             <tr align="center" style="background-color: #7452a9; color: white;">
               <td colspan="2"><h2>Bachillerato Tecnológico</h2></td>
               <td width="25%"><h2>Bachillerato General</h2></td>
               <td width="25%"><h2>Profesional Técnico</h2></td>
             </tr>
             <tr>
-              <td><img src="img/1_1_1.jpg"></td>
-              <td><img src="img/1_1_2.jpg"></td>
-              <td><img src="img/1_1_3.jpg"></td>
-              <td><img src="img/1_1_4.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_1_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_1_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_1_3.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_1_4.jpg"></td>
             </tr>
             <tr>
-              <td><img src="img/1_2_1.jpg"></td>
-              <td><img src="img/1_2_2.jpg"></td>
-              <td><img src="img/1_2_3.jpg"></td>
-              <td><img src="img/1x.png"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_2_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_2_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_2_3.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1x.png"></td>
             </tr>
             <tr>
-              <td><img src="img/1_3_1.jpg"></td>
-              <td><img src="img/1_3_2.jpg"></td>
-              <td><img src="img/1_3_3.jpg"></td>
-              <td><img src="img/1x.png"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_3_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_3_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1_3_3.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/1x.png"></td>
             </tr>
           </table>
-        </div>
+          </div>
         </div>
       </div>
    </div>
@@ -90,8 +90,8 @@
             
              <table width="100%">
               <tr>
-                <td width="50%"><img src="img/2.png"> Bachillerato No Escolarizado</td>
-                  <td style="text-align: right;">Los estudiantes pueden o no adquirir los conocimientos estando en un espacio físico. El 20 por ciento de las actividades a desarrollar por el estudiante son supervisadas por un docente, e incluso pueden ser de estudio independiente. Esta opción puede contemplar la mediación digital.
+                <td width="50%"><img src="/work/models/sems/Resource/12812/1/images/2.png"> Bachillerato No Escolarizado</td>
+                  <td style="text-align: justify;">Los estudiantes pueden o no adquirir los conocimientos estando en un espacio físico. El 20 por ciento de las actividades a desarrollar por el estudiante son supervisadas por un docente, e incluso pueden ser de estudio independiente. Esta opción puede contemplar la mediación digital.
                 </td>
               </tr>
              
@@ -107,15 +107,15 @@
               <td colspan="2"><h2>Centro de Atención para Personas con Discapacidad</h2></td>
               <td width="30%"><h2>Bachillerato General</h2></td>
             </tr>
-            <tr>
-              <td><img src="img/2_1_1.jpg"></td>
-              <td><img src="img/2_1_2.jpg"></td>
-              <td><img src="img/2_1_3.jpg"></td>
+            <tr align="center" style="background-color: #006f9e;">
+              <td><img src="/work/models/sems/Resource/12812/1/images/2_1_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/2_1_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/2_1_3.jpg"></td>
             </tr>
-            <tr>
-              <td><img src="img/2_2_1.jpg"></td>
-              <td><img src="img/2x.jpg"></td>
-              <td><img src="img/2_2_3.jpg"></td>
+            <tr align="center" style="background-color: #006f9e;">
+              <td><img src="/work/models/sems/Resource/12812/1/images/2_2_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/2x.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/2_2_3.jpg"></td>
             </tr>
           </table>
         </div>
@@ -130,7 +130,7 @@
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
             <table width="100%">
               <tr>
-                <td width="50%"><img src="img/3.png"> Bachillerato Mixto</td>
+                <td width="50%"><img src="/work/models/sems/Resource/12812/1/images/3.png"> Bachillerato Mixto</td>
                 <td style="text-align: justify;">Estudiantes y docentes coinciden en un espacio fijo con base a calendario y horario fijo. Entre el 30 y 40 por ciento de las actividades son supervisadas por un docente. Esta opción contempla la mediación digital. 
                 </td>
               </tr>
@@ -148,14 +148,14 @@
               <td width="33%"><h2>Profesional Técnico</h2></td>
             </tr>
             <tr>
-              <td><img src="img/3_1_1.jpg"></td>
-              <td><img src="img/3_1_2.jpg"></td>
-              <td><img src="img/3_1_3.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3_1_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3_1_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3_1_3.jpg"></td>
             </tr>
-            <tr>
-              <td><img src="img/3_2_1.jpg"></td>
-              <td><img src="img/3x.jpg"></td>
-              <td><img src="img/3x.jpg"></td>
+             <tr>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3_2_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3x.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/3x.jpg"></td>
             </tr>
           </table>
         </div>
@@ -170,8 +170,8 @@
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
              <table width="100%">
               <tr>
-                <td width="50%"><img src="img/1_1.png"> Certificación por Exámen</td>
-                <td style="text-align: right;">Se caracteriza por brindar la posibilidad de acreditar conocimientos adquiridos en forma autodidacta, a partir de los 18 años.
+                <td width="50%"><img src="/work/models/sems/Resource/12812/1/images/1.png"> Certificación por Exámen</td>
+                <td style="text-align: justify;">Se caracteriza por brindar la posibilidad de acreditar conocimientos adquiridos en forma autodidacta, a partir de los 18 años.
                 </td>
               </tr>
             </table>
@@ -186,12 +186,12 @@
               <td width="50%"><h2>EXACER-COLBACH</h2></td>
             </tr>
             <tr align="center" style="background-color: #e2e7d1;">
-              <td><img src="img/4_1_1.jpg"></td>
-              <td><img src="img/4_1_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/4_1_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/4_1_2.jpg"></td>
             </tr>
-             <tr  align="center" style="background-color: #e2e7d1;">
-              <td><img src="img/4_2_1.jpg"></td>
-              <td><img src="img/4_2_2.jpg"></td>
+            <tr align="center" style="background-color: #e2e7d1;">
+              <td><img src="/work/models/sems/Resource/12812/1/images/4_2_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/4_2_2.jpg"></td>
             </tr>
           </table>
         </div>
@@ -203,8 +203,8 @@
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">
              <table width="100%">
               <tr>
-                <td width="50%"><img src="img/2_2.png">Formación para el Trabajo.</td>
-                <td style="text-align: right;">Dirigido a personas mayores de 15 años con certificado de secundaria para el desarrollo de competencias laborales generales a través de la capacitación y formación técnica.
+                <td width="50%"><img src="/work/models/sems/Resource/12812/1/images/2.png">Formación para el Trabajo.</td>
+                <td style="text-align: justify;">Dirigido a personas mayores de 15 años con certificado de secundaria para el desarrollo de competencias laborales generales a través de la capacitación y formación técnica.
                 </td>
               </tr>
             </table>
@@ -220,9 +220,9 @@
               <td width="33%"><h2>ICAT</h2></td>
             </tr>
             <tr style="background-color: #ebd5d7;">
-              <td><img src="img/5_1_1.jpg"></td>
-              <td><img src="img/5_1_2.jpg"></td>
-              <td><img src="img/5_1_3.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/5_1_1.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/5_1_2.jpg"></td>
+              <td><img src="/work/models/sems/Resource/12812/1/images/5_1_3.jpg"></td>
             </tr>
           </table>
         </div>
@@ -232,7 +232,7 @@
 
     </div>
     <div id="menu4" class="tab-pane fade">
-      <h3><img src="img/8.jpg" class="img-responsive">
+      <h3><img src="/work/models/sems/Resource/12812/1/images/8.jpg" class="img-responsive">
     </div>
   </div>
 </div>
